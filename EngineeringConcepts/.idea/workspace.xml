@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="871c23f8-36d7-4149-af74-5785e0cee692" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0007248650247211" />
+      <entry key="MS500" value="1.2355328184762022" />
+      <entry key="S2" value="1.6966471380008485" />
+      <entry key="S5" value="1.8653765906638244" />
+      <entry key="S10" value="1.93025644027434" />
+      <entry key="S30" value="2.0094903049547854" />
+      <entry key="S60" value="2.7556099341308444" />
+      <entry key="M2" value="7.065444998013404" />
+      <entry key="M5" value="23.869811684255513" />
+      <entry key="M10" value="41.035653318926514" />
+      <entry key="M15" value="50.47070093580301" />
+      <entry key="M30" value="63.70273226426052" />
+      <entry key="H1" value="72.64144392526224" />
+      <entry key="H2" value="77.96047566515023" />
+      <entry key="H4" value="80.88150043966719" />
+      <entry key="D1" value="83.46571967236115" />
+      <entry key="W1" value="83.92330714812388" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.0021434626434352E-263" />
+      <entry key="S2" value="1.8082229309419565E-66" />
+      <entry key="S5" value="6.1221729895944515E-27" />
+      <entry key="S10" value="1.1514866677739664E-13" />
+      <entry key="S30" value="1.4558716309641422E-4" />
+      <entry key="S60" value="0.04211558160356797" />
+      <entry key="M2" value="0.8121045415186021" />
+      <entry key="M5" value="4.98963354127353" />
+      <entry key="M10" value="9.196234092550517" />
+      <entry key="M15" value="11.282729653555576" />
+      <entry key="M30" value="13.847169319264525" />
+      <entry key="H1" value="15.342192339976586" />
+      <entry key="H2" value="16.149675480668368" />
+      <entry key="H4" value="16.56934226538616" />
+      <entry key="D1" value="16.927448240584603" />
+      <entry key="W1" value="16.989616310543955" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9201893342472282" />
+      <entry key="MS500" value="1.0535263999133844" />
+      <entry key="S2" value="1.5102631070412458" />
+      <entry key="S5" value="1.7648603055059209" />
+      <entry key="S10" value="1.8746814946778325" />
+      <entry key="S30" value="1.9894345911313045" />
+      <entry key="S60" value="2.782766934907094" />
+      <entry key="M2" value="7.851347926864048" />
+      <entry key="M5" value="28.81519952146684" />
+      <entry key="M10" value="50.19249076862618" />
+      <entry key="M15" value="61.72094334158174" />
+      <entry key="M30" value="77.52934617169717" />
+      <entry key="H1" value="87.97191317541946" />
+      <entry key="H2" value="94.10386076438849" />
+      <entry key="H4" value="97.44757988533108" />
+      <entry key="D1" value="100.3926067738643" />
+      <entry key="W1" value="100.91284285751647" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FIqIYmDzkpjuZ4E5ZZRmwWRyDs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BuilderTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FactoryTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingletonTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unnamed.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Cognizant_JFE/Digital-Nurture-JavaFSE-main-Deepskilling-Solutions/EngineeringConcepts&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="FactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactoryMethodPatternExample.FactoryTest" />
+      <module name="EngineeringConcepts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FactoryMethodPatternExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SingletonPatternExample.SingletonTest" />
+      <module name="EngineeringConcepts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SingletonPatternExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SingletonTest" />
+        <item itemvalue="Application.FactoryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="871c23f8-36d7-4149-af74-5785e0cee692" name="Changes" comment="" />
+      <created>1781772851868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781772851868</updated>
+      <workItem from="1781772853015" duration="971000" />
+      <workItem from="1781773965087" duration="3020000" />
+      <workItem from="1781777084804" duration="1396000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,16 @@
+Before Sorting:
+101 Arun 4500.0
+102 Rahul 1200.0
+103 Kiran 7000.0
+104 Sai 2500.0
+
+After Bubble Sort:
+102 Rahul 1200.0
+104 Sai 2500.0
+101 Arun 4500.0
+103 Kiran 7000.0
+
+After Quick Sort:
+102 Rahul 1200.0
+104 Sai 2500.0
+101 Arun 4500.0

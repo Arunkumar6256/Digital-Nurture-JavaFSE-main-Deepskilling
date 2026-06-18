@@ -1,0 +1,6 @@
+Linear Search Result:
+104 Phone Electronics
+Binary Search Result:
+104 Phone Electronics
+
+Process finished with exit code 0
