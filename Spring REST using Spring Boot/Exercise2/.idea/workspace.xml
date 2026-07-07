@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9bea89b4-1a40-4d62-9fd4-ca2c8f8a8ee0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0001255021824396" />
+      <entry key="MS500" value="1.1716145067046886" />
+      <entry key="S2" value="1.9136489315566019" />
+      <entry key="S5" value="2.4419036866323616" />
+      <entry key="S10" value="2.7858094132807465" />
+      <entry key="S30" value="3.733000409751936" />
+      <entry key="S60" value="5.558145389140084" />
+      <entry key="M2" value="10.552023748679922" />
+      <entry key="M5" value="28.279913264903783" />
+      <entry key="M10" value="47.68108463439145" />
+      <entry key="M15" value="58.19355564525391" />
+      <entry key="M30" value="71.92277293862571" />
+      <entry key="H1" value="80.33194086496756" />
+      <entry key="H2" value="84.99626657165487" />
+      <entry key="H4" value="87.4540511858411" />
+      <entry key="D1" value="89.56940648536063" />
+      <entry key="W1" value="89.93833117567702" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="3.9357369590683006E-19" />
+      <entry key="MS500" value="2.0845159042943545E-4" />
+      <entry key="S2" value="0.12036599540772407" />
+      <entry key="S5" value="0.46214354025605414" />
+      <entry key="S10" value="0.8381553059997507" />
+      <entry key="S30" value="1.4921191530093023" />
+      <entry key="S60" value="2.122429078776396" />
+      <entry key="M2" value="3.497040260532463" />
+      <entry key="M5" value="6.580459950735512" />
+      <entry key="M10" value="8.930742904813584" />
+      <entry key="M15" value="10.03128326925722" />
+      <entry key="M30" value="11.364435391569462" />
+      <entry key="H1" value="12.13909176512473" />
+      <entry key="H2" value="12.557995890817523" />
+      <entry key="H4" value="12.776006981823757" />
+      <entry key="D1" value="12.962243266089091" />
+      <entry key="W1" value="12.994595661438382" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.004215817857829032" />
+      <entry key="MS500" value="0.37521032439645846" />
+      <entry key="S2" value="1.4896104656548477" />
+      <entry key="S5" value="2.549508799231911" />
+      <entry key="S10" value="3.3880402750693515" />
+      <entry key="S30" value="5.098395588915704" />
+      <entry key="S60" value="7.5802718093175985" />
+      <entry key="M2" value="13.95199220494529" />
+      <entry key="M5" value="34.76943396270167" />
+      <entry key="M10" value="56.542260522384304" />
+      <entry key="M15" value="68.17018712674746" />
+      <entry key="M30" value="83.25458707866662" />
+      <entry key="H1" value="92.45311846228824" />
+      <entry key="H2" value="97.54486260772597" />
+      <entry key="H4" value="100.22524180269605" />
+      <entry key="D1" value="102.53083033863963" />
+      <entry key="W1" value="102.93280936264594" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3GBSs9DH9IaBlFLHAMRypNMH9Ry" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.SpringLearnApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Cognizant_JFE/Digital-Nurture-JavaFSE-main-Deepskilling/Spring REST using Spring Boot/Exercise2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SpringLearnApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="spring-learn" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cognizant.spring_learn.SpringLearnApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bea89b4-1a40-4d62-9fd4-ca2c8f8a8ee0" name="Changes" comment="" />
+      <created>1783443672589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783443672589</updated>
+      <workItem from="1783443673763" duration="2084000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
